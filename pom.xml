@@ -19,6 +19,7 @@
         <module>rabbitmq-consumer</module>
         <module>kafka-producer</module>
         <module>kafka-consumer</module>
+        <module>kafka-stream</module>
     </modules>
 
     <properties>
